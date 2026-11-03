@@ -116,7 +116,9 @@ export const SocketProvider: React.FC<{ children: React.ReactNode }> = ({ childr
   const onNewMessage = (cb: (msg: MessageItem) => void) => {
     messageListenersRef.current.push(cb);
     return () => {
-      messageListenersRef.current = messageListenersRef.current.filter((item) => item !== cb);
+      messageListenersRef.current = messageListenersRef.current.filter(
+        (item: (msg: MessageItem) => void) => item !== cb
+      );
     };
   };
 
