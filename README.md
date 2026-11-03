@@ -2,6 +2,8 @@
 
 A modern, production-grade, End-to-End Encrypted (E2EE) and Local-Encrypted Real-Time Chat Application built with **Node.js, Express, MongoDB, Socket.io, React (Vite), TypeScript, Tailwind CSS, Three.js, and the Web Crypto API**.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/rahulkarakoti07/e2ee-chat-app)
+
 ---
 
 ## ⚡ Quickstart (Zero-Setup, 2-Minute Launch)
