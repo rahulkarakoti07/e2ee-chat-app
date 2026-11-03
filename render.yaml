@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: aegischat
+    name: aegis-chat
     runtime: node
     plan: free
     buildCommand: npm run install:all && npm run build

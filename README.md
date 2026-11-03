@@ -1,4 +1,4 @@
-# AegisChat // Zero-Knowledge End-to-End Encrypted Real-Time Chat
+# Aegis Chat // Zero-Knowledge End-to-End Encrypted Real-Time Chat
 
 A modern, production-grade, End-to-End Encrypted (E2EE) and Local-Encrypted Real-Time Chat Application built with **Node.js, Express, MongoDB, Socket.io, React (Vite), TypeScript, Tailwind CSS, Three.js, and the Web Crypto API**.
 
